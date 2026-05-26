@@ -1,9 +1,11 @@
 # Resume Project Challenge 21: Help AtliQ Media to Decode the 2026 Tamil Nadu Election
 
+
 ## 💼 About
 - Domain: Media/Broadcasting
 - Function: Data Analytis
 - Deadline: 28 May 2026
+
 
 
 ## 🤔 Problem Statement
@@ -16,7 +18,8 @@ N.B. The Real Skill Test: storytelling - framing these so a regular viewer under
 using complicated charts.
 
 
-## Data Sources
+
+## 📁 Data Sources
 
 + Codebasics pack: three CSV files
   * tn_2021_results.csv
@@ -27,7 +30,7 @@ using complicated charts.
 
 
 
-## Tech Stack in use
+## 🛠️ Tech Stack in use
 
 + Excel(Power Query)
 + SQL
@@ -39,7 +42,7 @@ using complicated charts.
 
 
 
-## Stay neutral - strict rule follow up
+## 😐 Stay neutral - strict rule follow up
 
 + Do not say why any party won or lost.
 + Do not predict the future.
@@ -54,7 +57,7 @@ using complicated charts.
 
 
 
-## Disclaimer 
+## ⚠️ Disclaimer 
 
 Codebasics does not endorse, criticise, or take any political position on the parties, leaders, alliances, communities, or outcomes discussed 
 in this challenge. This is a non-partisan data analysis exercise using only publicly available Election Commission of India data.
