@@ -3,7 +3,7 @@
 
 ## 💼 About
 - Domain: Media/Broadcasting
-- Function: Data Analytis
+- Function: Data Analytics
 - Deadline: 28 May 2026
 
 
